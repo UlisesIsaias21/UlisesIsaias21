@@ -30,9 +30,9 @@ Desarrollo aplicaciones web con React y las despliego con pipelines automatizado
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [Portafolio](https://https://ulises-isaias21.netlify.app) | Sitio personal con todos mis proyectos | React|
 | [for-habitos](https://for-habitos.netlify.app) | Tracker de hábitos diarios | React, Vite, Netlify |
-| Portafolio | Sitio personal (agrega aquí tu link) | React, Netlify |
-
+|
 ## Trabajando en
 
 - Pipelines de CI/CD con Azure
